@@ -4,9 +4,7 @@ En este repositorio, buscaremos las soluciones de la ecuación de Schrödinger p
 
 Comenzaremos por encontrar los estados estacionarios de la ecuación de Schrödinger independiente del tiempo:
 
-$$
-\Big( - \frac{\hbar^2}{2m} \frac{\partial^2}{\partial x^2} + V(x) \Big) \phi_n(x) = E_n \phi_n(x) 
-$$
+$$ \Big( - \frac{\hbar^2}{2m} \frac{\partial^2}{\partial x^2} + V(x) \Big) \phi_n(x) = E_n \phi_n(x) $$
 
 Donde $\hbar$ es la constante de Plank reducida, $m$ es la masa de la partícula, $V(x)$ es el potencial bajo el cual evoluciona la partícula. $\phi_n(x)$ es ele $n$-th estado estacionario del sistema cuántico, con energía $E_n$. El valor $n$ puede ser discreto ($n \in \mathbb{Z}$) o continuo ($n \in \mathbb{R}$).
 
