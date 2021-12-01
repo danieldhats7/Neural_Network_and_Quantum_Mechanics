@@ -4,5 +4,5 @@ En este repositorio, buscaremos las soluciones de la ecuación de Schrödinger p
 
 Comenzaremos por encontrar los estados estacionarios de la ecuación de Schrödinger independiente del tiempo: $x^1$
 ```math
-SE = \frac{\sigma}{\sqrt{n}}
+$SE = \frac{\sigma}{\sqrt{n}}$
 ```
