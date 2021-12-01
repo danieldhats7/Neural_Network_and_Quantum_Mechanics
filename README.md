@@ -10,9 +10,7 @@ Donde $\hbar$ es la constante de Plank reducida, $m$ es la masa de la partícula
 
 Las funciones de onda estacionaria $\phi_n(x)$ tener una evolución trivial en el tiempo:
 
-$$
-\phi_n(x,t) = \phi_n(x) e^{-i \frac{E_n}{\hbar}t}
-$$
+$ \phi_n(x,t) = \phi_n(x) e^{-i \frac{E_n}{\hbar}t} $
 
 Forman una base del espacio de Hilbert del hamiltoniano del sistema.
 
